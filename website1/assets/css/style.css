@@ -1,3 +1,15 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: lightgray;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: lightgray;
+}
+
+.navbar-light .navbar-brand {
+    color: lightgray;
 }
